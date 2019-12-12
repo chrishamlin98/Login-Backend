@@ -1,5 +1,3 @@
-//  This module is incomplete and has many errors //
-
 package test;
 
 import java.util.*;
@@ -8,6 +6,7 @@ import javax.security.auth.*;
 import javax.security.auth.callback.*;
 import javax.security.auth.login.*;
 import javax.security.auth.spi.*;
+import java.security.Principal;
 import sample.principal.SamplePrincipal;
 
 /**
